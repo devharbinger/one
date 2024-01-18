@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "data_293240": "dsg"
+  },
+  "qa": {
+    "data_293240": "dsg"
+  },
+  "integration": {
+    "data_293240": "dsg"
+  },
+  "staging": {
+    "data_293240": "dsg"
+  },
+  "uat": {
+    "data_293240": "dsg"
+  },
+  "prod": {
+    "data_293240": "dsg"
+  }
+}
